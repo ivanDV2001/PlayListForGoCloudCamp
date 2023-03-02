@@ -26,7 +26,7 @@ public class iFace extends javax.swing.JFrame {
         prevBtn.setIcon(new javax.swing.ImageIcon("src\\main\\java\\imag\\892666 1.png"));
         nextBtn.setIcon(new javax.swing.ImageIcon("src\\main\\java\\imag\\892666.png"));
         playBtn.setIcon(new javax.swing.ImageIcon("src\\main\\java\\imag\\png-transparent-youtube-play-button-play-button-symbol-icon-angle-triangle-teal.png"));
-        muteTBtn.setIcon(new javax.swing.ImageIcon("Z:\\Documents\\musicPlaylist\\src\\main\\java\\imag\\2090371-200 1.png"));
+        muteTBtn.setIcon(new javax.swing.ImageIcon("src\\main\\java\\imag\\2090371-200 1.png"));
         resetBtn.setIcon(new javax.swing.ImageIcon("src\\main\\java\\imag\\image 3.png"));
     }
     
